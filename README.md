@@ -81,3 +81,5 @@ We value your contributions and strive to make the process of reporting issues a
 - **Shengyang Wang** - *Data Science, class of 2026, Duke Kunshan University* - [Github](https://github.com/Wangshengyang2004)
 - **Nizar Talty** - *Data Science, class of 2026, Duke Kunshan University* - [Github](https://github.com/nexxusss)
 - **Renzo Balcazar Tapia** - *Data Science, class of 2025, Duke Kunshan University* - [Github](https://github.com/renz011tzar)
+- **Zhenshan Zhang** - *Applied Mathemetics, class of 2026, Duke Kunshan University* - [Github](https://github.com/Alphawarheads)
+- 
